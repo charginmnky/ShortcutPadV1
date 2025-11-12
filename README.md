@@ -1,6 +1,6 @@
 # ShortcutPadV1
 Shortcut PCB for desktop shortcuts like macros, muting, and volume controls.
-## Pathfinder Session 2 - [40 minutes]
+## Pathfinder Session 1 - [40 minutes]
 What I did:
 I installed KiCad and Wakatime, and made my hackatime account.
 
