@@ -10,7 +10,7 @@ Screenshot of progress:
 
 ## Pathfinder Session 2 - [40 minutes]
 What I did:
-I created my schematic, with 6 buttons and 3 leds.
+I created my schematic, with 4 buttons and 4 leds.
 
 
 Screenshot of progress:
@@ -20,14 +20,29 @@ Screenshot of progress:
 
 ## Pathfinder Session 3 - [2 hours 40 minutes]
 What I did:
-I added my footprints, designed my pcb and and added 3d models of parts to my pcb.
+I added my footprints, and wired & designed my pcb.
 
 
 Screenshot of progress:
-<img width="1042" height="769" alt="image" src="https://github.com/user-attachments/assets/16b4237d-c916-4ad5-a765-9b768b1a067b" />
+<img width="783" height="557" alt="pcbschem" src="https://github.com/user-attachments/assets/c1d342f3-cbc9-46e1-b851-400e536b4ce5" />
+
+
+## Pathfinder Session 4 - [20 minutes]
+What I did:
+I added 3d models of the parts to my code.
+
+Screenshot of progress:
+<img width="842" height="572" alt="pcb" src="https://github.com/user-attachments/assets/5b7a0899-b4f1-4430-823b-6c0a09358bf7" />
+<img width="736" height="498" alt="pcbm" src="https://github.com/user-attachments/assets/ca655577-9a23-497b-a15b-7c437de5476a" />
 
 
 
+## Pathfinder Session 5 - [10 minutes]
+What I did:
+I started my code in arduino IDE.
+
+Screenshot of progress:
+<img width="1341" height="781" alt="code" src="https://github.com/user-attachments/assets/0fb09f53-eebb-4817-a993-3cc62323159a" />
 
 
 
