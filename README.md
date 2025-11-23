@@ -45,10 +45,11 @@ Screenshot of progress:
 <img width="1341" height="781" alt="code" src="https://github.com/user-attachments/assets/0fb09f53-eebb-4817-a993-3cc62323159a" />
 
 
+## Pathfinder Session 6 - [30 minutes]
+What I did:
+I finished my code in arduino IDE.
 
-
-
-
-
-
+Screenshot of progress:
+<img width="1919" height="1028" alt="code1" src="https://github.com/user-attachments/assets/5a549d3d-d511-4afc-95e0-1346f32ac574" />
+<img width="1919" height="1023" alt="code2" src="https://github.com/user-attachments/assets/c198e237-e22f-4872-bf36-878dd538beb2" />
 
