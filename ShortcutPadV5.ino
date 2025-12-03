@@ -1,9 +1,9 @@
-#include "arduino_secrets.h"
 
 int BUT1 = DO;
 int BUT2 = D1;
 int BUT3 = D2;
 int BUT4 = D3;
+
 int LED1 = D6;
 int LED2 = D7;
 int LED3 = D8;
@@ -34,7 +34,6 @@ if (currentLED == 0 && digitalRead(BUT1) == LOW) hit();
 if (currentLED == 1 && digitalRead(BUT2) == LOW) hit();
 if (currentLED == 2 && digitalRead(BUT3) == LOW) hit();
 if (currentLED == 3 && digitalRead(BUT4) == LOW) hit();
-if (currentLED == 4 && digitalRead(BUT4) == LOW) hit();
 }
 
 void pickNewLED()
@@ -43,11 +42,6 @@ void pickNewLED()
   digitalWrite(LED2, LOW);
   digitalWrite(LED3, LOW);
   digitalWrite(LED4, LOW);
-}
-digitalWrite(LED1, LOW);
-digitalWrite(LED2, LOW);
-digitalWrite(LED3, LOW);
-digitalWrite(LED4, LOW);
 
 currentLED = random(0, 4);
 
